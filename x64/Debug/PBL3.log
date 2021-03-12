@@ -1,0 +1,148 @@
+﻿  ChuongTrinhHoc.cpp
+  DanhSachDiem.cpp
+  DBHelper.cpp
+F:\PBL3\DBHelper.cpp(95,79): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(95,65): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(96,81): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(96,67): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(97,87): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(97,73): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(98,83): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(98,69): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(99,82): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(99,68): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(100,81): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(100,67): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(101,83): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(101,69): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(152,79): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(152,65): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(153,81): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(153,67): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(154,87): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(154,73): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(155,83): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(155,69): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(156,82): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(156,68): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(157,81): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(157,67): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(158,83): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(158,69): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(211,79): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(211,65): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(212,81): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(212,67): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(213,87): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(213,73): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(214,83): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(214,69): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(215,82): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(215,68): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(216,81): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(216,67): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(217,83): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(217,69): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(263,79): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(263,65): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(264,81): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(264,67): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(265,81): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(265,67): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(266,82): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(266,68): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(405,79): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(405,65): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(406,79): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(406,65): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(407,86): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(407,72): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(408,87): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(408,73): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(569,87): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(569,73): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(570,79): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(570,65): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(571,79): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(571,65): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(572,85): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(572,71): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(573,82): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(573,68): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(574,86): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(574,72): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(575,83): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(575,69): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(576,82): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(576,68): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(646,87): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(646,73): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(647,79): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(647,65): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(648,85): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(648,71): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(649,82): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(649,68): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(650,86): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(650,72): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(651,83): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(651,69): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+F:\PBL3\DBHelper.cpp(652,82): error C2664: 'SQLRETURN SQLGetData(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': cannot convert argument 6 from 'SQLINTEGER *' to 'SQLLEN *'
+F:\PBL3\DBHelper.cpp(652,68): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sql.h(748,20): message : see declaration of 'SQLGetData'
+  Diem.cpp
+  Khoa.cpp
+  KhoaHoc.cpp
+  LopHocPhan.cpp
+  LopSH.cpp
+  Person.cpp
+  QLSV.cpp
+F:\PBL3\QLSV.cpp(7,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  QLSVmain.cpp
+  Subject.cpp
+  SV.cpp
+  TKB.cpp
+  Generating Code...
